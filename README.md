@@ -41,11 +41,24 @@ Companion code for the article **Stochastic optimisation method for estimating l
    jupyter notebook notebooks/ldstop_IID.ipynb
    ```
 
-<!-- ## Citation
+## Citation
 
 If you use this code, please cite:
 
-> Daniël W. H. Cloete and Hugo Touchette. (2026). *Stochastic optimization method for estimating large deviations*. [Publication / venue]. [link-to-article] -->
+> Daniël W. H. Cloete and Hugo Touchette. (2026). *Stochastic optimisation method for estimating large deviations*. arXiv preprint arXiv:2609.24473. https://doi.org/10.48550/arXiv.2609.24473
+
+```bibtex
+@misc{cloete2026stochastic,
+    title={Stochastic optimisation method for estimating large deviations}, 
+    author={Dani{\"e}l W. H. Cloete and Hugo Touchette},
+    year={2026},
+    eprint={2609.24473},
+    archivePrefix={arXiv},
+    primaryClass={cond-mat.stat-mech},
+    url={https://arxiv.org/abs/2609.24473}, 
+}
+```
+
 
 ## License
 
